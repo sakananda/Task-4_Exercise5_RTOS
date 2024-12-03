@@ -40,7 +40,7 @@ Proyek ini menggunakan STM32 untuk:
 ---
 
 ## Foto Hardware
-![foto hardware task 5](https://github.com/user-attachments/assets/example-hardware.png)
+![foto hardware task 5]()
 
 ## Short Video Hardware
 
